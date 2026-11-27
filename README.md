@@ -1,5 +1,3 @@
-<img width="1222" height="750" alt="image" src="https://github.com/user-attachments/assets/83b21f3e-c513-402e-a4f8-6ccf41f5d680" /># Aggregate-Functions-Group-by-and-Having-Clause
-
 # Experiment 4: Aggregate Functions, Group By and Having Clause
 
 ## AIM
